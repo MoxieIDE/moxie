@@ -4,7 +4,6 @@ npm-debug.log
 Thumbs.db
 node_modules/
 .build/
-.vscode/extensions/**/out/
 extensions/**/dist/
 /out*/
 /extensions/**/out/
@@ -28,3 +27,4 @@ product.overrides.json
 .tool-versions
 src/vs/workbench/contrib/void/browser/react/out/**
 src/vs/workbench/contrib/void/browser/react/src2/**
+config.bat
